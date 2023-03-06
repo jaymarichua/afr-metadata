@@ -1,2 +1,2 @@
 # afr-metadata
-The Australian Financial Review select articles metadata.
+The Australian Financial Review (select articles metadata).
